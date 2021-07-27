@@ -30,7 +30,8 @@ We will move step by step process to classify 7 classes of cancer.
 - Step 9: Label Encoding
 - Step 10: Train validation split
 - Step 11: Model Building (CNN)
-- Step 12: Setting Optimizer & Annealing
+- Step 12: Setting Optimizer
 - Step 13: Fitting the model
 - Step 14: Model Evaluation (Testing and validation accuracy, confusion matrix, analysis of misclassified instances)
+
 

@@ -18,18 +18,18 @@ In this kernel I will try to **detect 7 different classes of skin cancer using C
 We will move step by step process to classify 7 classes of cancer.
 
 **In this kernel I have followed following steps for model building and evaluation which are as follows :
-Step 1 : Importing Essential Libraries
-Step 2: Making Dictionary of images and labels
-Step 3: Reading and Processing Data
-Step 4: Data Cleaning
-Step 5: Exploratory data analysis (EDA)
-Step 6: Loading & Resizing of images
-Step 7: Train Test Split
-Step 8: Normalization
-Step 9: Label Encoding
-Step 10: Train validation split
-Step 11: Model Building (CNN)
-Step 12: Setting Optimizer & Annealing
-Step 13: Fitting the model
-Step 14: Model Evaluation (Testing and validation accuracy, confusion matrix, analysis of misclassified instances)**
+- Step 1 : Importing Essential Libraries
+- Step 2: Making Dictionary of images and labels
+- Step 3: Reading and Processing Data
+- Step 4: Data Cleaning
+- Step 5: Exploratory data analysis (EDA)
+- Step 6: Loading & Resizing of images
+- Step 7: Train Test Split
+- Step 8: Normalization
+- Step 9: Label Encoding
+- Step 10: Train validation split
+- Step 11: Model Building (CNN)
+- Step 12: Setting Optimizer & Annealing
+- Step 13: Fitting the model
+- Step 14: Model Evaluation (Testing and validation accuracy, confusion matrix, analysis of misclassified instances)
 
